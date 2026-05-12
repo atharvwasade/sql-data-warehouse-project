@@ -99,6 +99,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **atharv vijay wasade**. I’m an IT professional and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
 **email- atharvwasade@gmail.com**
+
 **linkedin-https://www.linkedin.com/in/atharv-wasade-6b8317224?utm_source=share_via&utm_content=profile&utm_medium=member_android**
 
